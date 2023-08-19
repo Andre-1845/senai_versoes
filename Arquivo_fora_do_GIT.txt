@@ -1,4 +1,0 @@
-Este arquivo não será monitorado
-Nova alteração feita diretamente no remoto
-Nova alteracao apos inclusao no GITIGNORE mas sem fazer o pull e push
-Nova alteracao apos fazer o pull e push e atualizar o GITIGNORE
