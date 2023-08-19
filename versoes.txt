@@ -6,4 +6,10 @@ Modificacao no VS Code
 
 Iniciando modificacoes em BRANCHES
 
+
 Ramo 1 - testanto modificaca atraves do GITHUB
+
+Conflito resolvido
+
+RAMO 2 - teste de modificacao
+
