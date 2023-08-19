@@ -3,3 +3,5 @@ Teste GIT 17 Ago - EAD SENAI SP
 Teste de modificação no GITHUB.
 
 Modificacao no VS Code
+
+Iniciando modificacoes em BRANCHES
