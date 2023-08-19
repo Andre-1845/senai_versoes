@@ -1,0 +1,1 @@
+Uma alteraçao no GITIGNORE feita no site (remoto)
