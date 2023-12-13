@@ -5,3 +5,5 @@ Teste de modificação no GITHUB.
 Modificacao no VS Code
 
 Iniciando modificacoes em BRANCHES
+
+incluindo via ipad
